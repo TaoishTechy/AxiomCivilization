@@ -67,5 +67,48 @@
         "loop-stable dynamics"
       ]
     }
-  ]
+  ],
+  "civilization": [
+    {
+      "core_statement": "Defection’s marginal utility decays; cooperation exhibits superlinear returns.",
+      "mechanisms": [
+        "Assurance Game",
+        "Network Effects",
+        "Social Verification",
+        "Commit-Reveal"
+      ],
+      "consequences": [
+        "cooperation basins of attraction",
+        "anti-defection drift",
+        "coalition lock-in"
+      ]
+    },
+    {
+      "core_statement": "Verification near zero flips trust from scarce to abundant; betrayal cannot invade.",
+      "mechanisms": [
+        "Zero-Knowledge Proofs",
+        "Economic Slashing",
+        "Delegated Attestations"
+      ],
+      "consequences": [
+        "trust surplus",
+        "cheap coordination",
+        "evolutionary stability"
+      ]
+    },
+    {
+      "core_statement": "Information is free; attention is priced—governance optimizes the bottleneck.",
+      "mechanisms": [
+        "Auctioned Attention Slots",
+        "Relevance Markets",
+        "Spam Taxes"
+      ],
+      "consequences": [
+        "efficient signaling",
+        "curated commons",
+        "power-law attention"
+      ]
+    }
+  ],
+  "timestamp_updated": "2025-10-05T21:56:28.328261"
 }

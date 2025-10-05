@@ -306,5 +306,97 @@
   "Causal Loop": [
     "Closed Loop: \"[CORE_STATEMENT]\". Mechanisms: [MECHANISMS]. Loop constraint: [MATH]. Consequences: [CONSEQUENCES].",
     "Fixed point persists: [CORE_STATEMENT]. Operates through: [MECHANISMS]. Self-consistency map: [MATH]. Yields: [CONSEQUENCES]."
+  ],
+  "civilization": [
+    {
+      "core_statement": "Defection yields diminishing returns while cooperation compounds via network effects.",
+      "mechanisms": [
+        "Assurance Game",
+        "Network Externalities",
+        "Algorithmic Mediation",
+        "Reputation Effects"
+      ],
+      "consequences": [
+        "cooperation-dominant equilibria",
+        "resilient coalition formation",
+        "viral norm adoption",
+        "defector marginalization"
+      ]
+    },
+    {
+      "core_statement": "Trust emerges when verification costs approach zero and betrayal becomes evolutionarily unstable.",
+      "mechanisms": [
+        "Zero-Knowledge Proofs",
+        "Cheap-But-Verifiable Signaling",
+        "Economic Slashing",
+        "Federated Attestation"
+      ],
+      "consequences": [
+        "high-trust equilibria",
+        "low-friction exchange",
+        "punishment-self-selection",
+        "attack surface reduction"
+      ]
+    },
+    {
+      "core_statement": "Attention is scarce while information is abundant; institutions form to price the bottleneck.",
+      "mechanisms": [
+        "Attention Markets",
+        "Algorithmic Curation",
+        "Relevance Pricing",
+        "Spam-Resistance"
+      ],
+      "consequences": [
+        "platform power laws",
+        "filter bubble risk",
+        "coordination-through-pricing",
+        "signal-to-noise management"
+      ]
+    },
+    {
+      "core_statement": "Edge ledgers shape interior behavior: boundary updates curve the social bulk.",
+      "mechanisms": [
+        "Holographic Governance",
+        "Boundary-Ledger Commitments",
+        "Proof-of-Stake Finality",
+        "Hashgraph Gossip"
+      ],
+      "consequences": [
+        "boundary-driven norms",
+        "curvature of incentives",
+        "fast finality pockets",
+        "perimeter-induced order"
+      ]
+    },
+    {
+      "core_statement": "Perfect stabilization creates the fluctuations it must suppress.",
+      "mechanisms": [
+        "Homeostatic Overshoot",
+        "Negative Feedback Inversion",
+        "Control-Loop Resonance"
+      ],
+      "consequences": [
+        "metastable equilibria",
+        "policy whiplash",
+        "entropy leakage"
+      ]
+    },
+    {
+      "core_statement": "Only rules that pass terminal checks may be enacted at genesis.",
+      "mechanisms": [
+        "Finality-First Governance",
+        "Retrocausal Simulation",
+        "Consistency Potential Minimization"
+      ],
+      "consequences": [
+        "unique institutional fixed points",
+        "rollback immunization",
+        "ex-ante audit culture"
+      ]
+    }
+  ],
+  "Civilization": [
+    "Civilization Axiom: \"[CORE_STATEMENT]\". Mechanisms: [MECHANISMS]. Coordination curvature: [MATH]. Consequences: [CONSEQUENCES].",
+    "Institutions self-tune: [CORE_STATEMENT]. Operates through: [MECHANISMS]. Equilibrium map: [MATH]. Yields: [CONSEQUENCES]."
   ]
 }

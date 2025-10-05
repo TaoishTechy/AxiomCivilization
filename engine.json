@@ -30,6 +30,18 @@
         "banach_tarski_explosion",
         "maxwell_demon_subversion"
       ]
+    },
+    {
+      "category": "Civilization & Governance Modules",
+      "functions": [
+        "consensus_selection",
+        "risk_pooling",
+        "incentive_alignment",
+        "value_landscape_explorer",
+        "multi_agent_game_builder",
+        "scarcity_dynamics",
+        "attention_economy_model"
+      ]
     }
   ],
   "generation_params": {
@@ -43,7 +55,25 @@
     "consequence_max": 5,
     "hostility_level": 0.9,
     "meta_stability_target": 0.85,
-    "allow_ontological_cascade": true
+    "allow_ontological_cascade": true,
+    "civilization_mode": true,
+    "civilization_axes": [
+      "coordination",
+      "attention",
+      "energy",
+      "information",
+      "security"
+    ],
+    "metrics": [
+      "novelty",
+      "density",
+      "entropic_potential",
+      "elegance",
+      "alienness",
+      "coordination_efficiency",
+      "adaptation_capability",
+      "strategic_sophistication"
+    ]
   },
   "postprocessors": {
     "//": "Stabilize output form and prevent truncation / garbling.",
@@ -81,7 +111,8 @@
       "Cosmic": "cosmic",
       "Linguistic": "linguistic",
       "Metaphysical": "metaphysical",
-      "Entropic": "entropic"
+      "Entropic": "entropic",
+      "Civilization": "civilization"
     },
     "require_equations_for": [
       {

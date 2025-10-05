@@ -57,5 +57,13 @@
     "The Causal Loop: [CORE_STATEMENT]. Mechanisms: [MECHANISMS]. Fixed-point equation: [MATH]. Outcomes: [CONSEQUENCES].",
     "Novikov Closure: [CORE_STATEMENT]. Driven by: [MECHANISMS]. Constraint functional: [MATH]. Therefore: [CONSEQUENCES].",
     "Prediction-as-Selection: [CORE_STATEMENT]. Through: [MECHANISMS]. Two-time flow: [MATH]. Implication: [CONSEQUENCES]."
+  ],
+  "civilization": [
+    "Civilization Axiom: \"[CORE_STATEMENT]\" — via [MECHANISMS]; encoded as [MATH]; implies [CONSEQUENCES]. Civ-metrics: [CIV_METRICS].",
+    "Governance Loop: [CORE_STATEMENT]. Mechanisms: [MECHANISMS]. Consensus: [CONSENSUS]. Risk pool: [RISK_POOL]. Outcomes: [CONSEQUENCES].",
+    "Attention Economy Thesis: [CORE_STATEMENT]. Operative levers: [MECHANISMS]. Pricing rule: [MATH]. Social result: [CONSEQUENCES].",
+    "Trust Equilibrium: [CORE_STATEMENT]. Verification stack: [MECHANISMS]. Finality model: [CONSENSUS]. Stability: [CIV_METRICS].",
+    "Coordination Curvature: [CORE_STATEMENT]. Boundary policy: [MECHANISMS]. Map: [MATH]. Collective effect: [CONSEQUENCES].",
+    "Multi-Agent Game: [CORE_STATEMENT]. Game: [GAME]. Payoffs: [PAYOFFS]. Communication: [COMMS]. Equilibrium: [CIV_METRICS]."
   ]
 }
