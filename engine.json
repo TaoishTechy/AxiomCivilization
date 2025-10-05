@@ -1,0 +1,97 @@
+{
+  "//": "AxiomForge Configuration v0.2 — Offensive Framework",
+  "enhancement_functions": [
+    {
+      "category": "Entropic & Fractal Aggressions",
+      "functions": [
+        "entropy_injection",
+        "fractal_collapse",
+        "recursive_overload",
+        "three_valued_attack",
+        "inference_poisoning"
+      ]
+    },
+    {
+      "category": "Ontological & Temporal Distortions",
+      "functions": [
+        "causal_loop_insertion",
+        "chronal_disruption",
+        "aporia_unfolding",
+        "retrocausal_feedback",
+        "identity_fragmentation"
+      ]
+    },
+    {
+      "category": "Quantum & Metaphysical Hostilities",
+      "functions": [
+        "wavefunction_weaponization",
+        "decoherence_inversion",
+        "zeta_paradox_injection",
+        "banach_tarski_explosion",
+        "maxwell_demon_subversion"
+      ]
+    }
+  ],
+  "generation_params": {
+    "//": "Advanced controls for aggression tuning.",
+    "complexity": 14,
+    "recursion_depth": 9,
+    "symbolic_density": 12,
+    "mechanism_min": 3,
+    "mechanism_max": 5,
+    "consequence_min": 3,
+    "consequence_max": 5,
+    "hostility_level": 0.9,
+    "meta_stability_target": 0.85,
+    "allow_ontological_cascade": true
+  },
+  "postprocessors": {
+    "//": "Stabilize output form and prevent truncation / garbling.",
+    "ensure_sentence_closure": true,
+    "balance_delimiters": true,
+    "symbol_whitelist": [
+      "∀",
+      "∈",
+      "∅",
+      "⊗",
+      "⊕",
+      "⨂",
+      "≈",
+      "→",
+      "⇒",
+      "↦",
+      "Δ",
+      "∫",
+      "√",
+      "≈",
+      "≤",
+      "≥",
+      "…",
+      "π"
+    ],
+    "normalize_probability": true,
+    "validate_math_blocks": true,
+    "max_chars_per_field": 600,
+    "trim_or_retry_on_overflow": true
+  },
+  "validators": {
+    "paradox_type_map": {
+      "Causal Loop": "causal_loop",
+      "Temporal": "temporal",
+      "Cosmic": "cosmic",
+      "Linguistic": "linguistic",
+      "Metaphysical": "metaphysical",
+      "Entropic": "entropic"
+    },
+    "require_equations_for": [
+      {
+        "bucket": "causal_loop",
+        "placeholder": "[MATH]"
+      },
+      {
+        "bucket": "temporal",
+        "placeholder": "[MATH]"
+      }
+    ]
+  }
+}
